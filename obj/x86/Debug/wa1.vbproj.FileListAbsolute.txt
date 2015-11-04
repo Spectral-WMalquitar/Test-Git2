@@ -1,0 +1,9 @@
+E:\STIFILES\wa1\wa1\bin\Debug\wa1.exe
+E:\STIFILES\wa1\wa1\bin\Debug\wa1.pdb
+E:\STIFILES\wa1\wa1\bin\Debug\wa1.xml
+E:\STIFILES\wa1\wa1\obj\x86\Debug\wa1.Form1.resources
+E:\STIFILES\wa1\wa1\obj\x86\Debug\wa1.Resources.resources
+E:\STIFILES\wa1\wa1\obj\x86\Debug\wa1.vbproj.GenerateResource.Cache
+E:\STIFILES\wa1\wa1\obj\x86\Debug\wa1.exe
+E:\STIFILES\wa1\wa1\obj\x86\Debug\wa1.xml
+E:\STIFILES\wa1\wa1\obj\x86\Debug\wa1.pdb
