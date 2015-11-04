@@ -1,0 +1,12 @@
+Import System
+
+namespace DBUtilities
+{
+	class DBUtil
+	{
+
+
+	}
+
+
+}
