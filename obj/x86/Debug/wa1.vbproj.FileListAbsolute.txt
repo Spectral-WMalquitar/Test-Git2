@@ -7,3 +7,13 @@ E:\STIFILES\wa1\wa1\obj\x86\Debug\wa1.vbproj.GenerateResource.Cache
 E:\STIFILES\wa1\wa1\obj\x86\Debug\wa1.exe
 E:\STIFILES\wa1\wa1\obj\x86\Debug\wa1.xml
 E:\STIFILES\wa1\wa1\obj\x86\Debug\wa1.pdb
+F:\obj\x86\Debug\wa1.exe
+F:\obj\x86\Debug\wa1.xml
+F:\obj\x86\Debug\wa1.pdb
+F:\bin\Debug\wa1.exe
+F:\bin\Debug\wa1.pdb
+F:\bin\Debug\wa1.xml
+F:\obj\x86\Debug\wa1.frmMain.resources
+F:\obj\x86\Debug\wa1.Resources.resources
+F:\obj\x86\Debug\wa1.vbproj.GenerateResource.Cache
+F:\obj\x86\Debug\wa1.exe.licenses
